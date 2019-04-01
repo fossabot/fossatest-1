@@ -1,1 +1,3 @@
 # fossatest
+
+GPLv2
